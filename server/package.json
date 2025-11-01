@@ -1,0 +1,22 @@
+{
+  "name": "askdurga-ai",
+  "version": "0.0.1",
+  "description": "AskDurga AI — Understand anything in simple English.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "Durga Rao Chepuri",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "express-rate-limit": "^8.2.1",
+    "helmet": "^8.1.0",
+    "openai": "^6.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
