@@ -1,5 +1,5 @@
 {
-  "name": "askdurga-ai",
+  "name": "askdurga-ai-server",
   "version": "0.0.1",
   "description": "AskDurga AI — Understand anything in simple English.",
   "main": "index.js",
